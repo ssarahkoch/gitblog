@@ -12,7 +12,7 @@ export function AxiosLib() {
           `https://api.github.com/search/issues?q=repo:ssarahkoch/gitblog`,
           {
             headers: {
-              Authorization: 'Bearer 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',
+              Authorization: 'Bearer ',
             },
           },
         )
